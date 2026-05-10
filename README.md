@@ -21,5 +21,3 @@ Tags Técnicas e Específicas:
 <abbr>: Para definir o significado de siglas e abreviações.
 
 <font>: Utilizada exclusivamente para entender a evolução das tags legadas frente ao uso moderno do CSS (Cascading Style Sheets - Folhas de Estilo em Cascata).
-
-Você pretende subir esse projeto para o seu portfólio no GitHub (plataforma de hospedagem de código-fonte e arquivos) agora ou vai adicionar algum estilo visual antes?
